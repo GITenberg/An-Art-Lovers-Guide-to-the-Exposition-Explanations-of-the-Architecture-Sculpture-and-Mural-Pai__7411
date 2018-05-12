@@ -1,4 +1,8 @@
 _repo: An-Art-Lovers-Guide-to-the-Exposition-Explanations-of-the-Architecture-Sculpture-and-Mural-Pai__7411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cheney, Sheldon
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2461'
     url: http://www.gutenberg.org/2009/agents/2461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7411#An-Art-Lovers-Guide-to-the-Exposition-Explanations-of-the-Architecture-Sculpture-and-Mural-Pai_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
